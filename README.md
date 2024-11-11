@@ -49,10 +49,11 @@ Ensure that you have:
 
    Add your Google GenAI and Pinecone API keys. You can enter them directly in the Streamlit app or set them as environment variables.
 
+
 4. **Running the Application**:
 To start the application, run:
  ```bash
       streamlit run app.py
-'''
+
 
 This will open the Streamlit app in your default browser. Enter the required API keys in the sidebar, and you’re ready to start using the tool.
