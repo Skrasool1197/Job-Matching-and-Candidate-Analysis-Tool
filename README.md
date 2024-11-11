@@ -30,7 +30,7 @@ Ensure that you have:
    ```bash
     pip install -r requirements.txt
 
-- Dependencies include:
+### Dependencies include:
 
 streamlit - for the web interface
 
