@@ -26,16 +26,32 @@ Ensure that you have:
    git clone https://github.com/your-repo/job-matching-tool.git
   
 
-1. **Install dependencies**:
+2. **Install dependencies**:
    ```bash
     pip install -r requirements.txt
 
 - Dependencies include:
 
 streamlit - for the web interface
+
 langchain-core - for managing documents
+
 pydantic - for defining structured response models
+
 PyMuPDF - for PDF processing
+
 google-generativeai - for accessing Google Generative AI
+
 pinecone-client - for interacting with Pinecone
 
+
+3. **Set up environment variables**:
+
+Add your Google GenAI and Pinecone API keys. You can enter them directly in the Streamlit app or set them as environment variables.
+
+4. **Running the Application**:
+To start the application, run:
+ ```bash
+   streamlit run app.py
+
+This will open the Streamlit app in your default browser. Enter the required API keys in the sidebar, and you’re ready to start using the tool.
