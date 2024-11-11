@@ -54,6 +54,7 @@ Ensure that you have:
 To start the application, run:
  ```bash
       streamlit run app.py
-
-
+```
 This will open the Streamlit app in your default browser. Enter the required API keys in the sidebar, and you’re ready to start using the tool.
+
+
