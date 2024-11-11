@@ -23,8 +23,8 @@ Ensure that you have:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/job-matching-tool.git
-   cd job-matching-tool
+   [git clone https://github.com/your-repo/job-matching-tool.git
+   cd job-matching-tool](https://github.com/Skrasool1197/Job-Matching-and-Candidate-Analysis-Tool.git)
 
 1. **Install dependencies**:
    ```bash
